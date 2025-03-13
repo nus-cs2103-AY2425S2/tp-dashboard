@@ -176,7 +176,7 @@ https://github.com/AY2425S2-CS2103-F09-2/tp/tree/master
 **Product:** [EduEase](https://ay2425s2-cs2103-f09-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103-F09-3/tp/tree/master
-**Product:** [SwiftContacts](https://ay2425s2-cs2103-f09-3.github.io/tp)
+**Product:** [Listify](https://ay2425s2-cs2103-f09-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103-F09-4/tp/tree/master
 **Product:** [TeamScape](https://ay2425s2-cs2103-f09-4.github.io/tp)
