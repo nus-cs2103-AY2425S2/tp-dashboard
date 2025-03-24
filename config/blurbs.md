@@ -83,7 +83,7 @@ https://github.com/AY2425S2-CS2103T-T11-3/tp/tree/master
 **Product:** [ResiConnect](https://ay2425s2-cs2103t-t11-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103T-T11-4/tp/tree/master
-**Product:** [TraderConnect](https://ay2425s2-cs2103t-t11-4.github.io/tp)
+**Product:** [FinClient](https://ay2425s2-cs2103t-t11-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103T-T12-1/tp/tree/master
 **Product:** [TABook](https://ay2425s2-cs2103t-t12-1.github.io/tp)
