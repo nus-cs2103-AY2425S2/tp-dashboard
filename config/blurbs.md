@@ -44,7 +44,7 @@ https://github.com/AY2425S2-CS2103T-T08-1/tp/tree/master
 **Product:** [BiteBook](https://ay2425s2-cs2103t-t08-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103T-T08-2/tp/tree/master
-**Product:** [ContactCafe](https://ay2425s2-cs2103t-t08-2.github.io/tp)
+**Product:** [KrustyKrab](https://ay2425s2-cs2103t-t08-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103T-T08-3/tp/tree/master
 **Product:** [CafeConnect](https://ay2425s2-cs2103t-t08-3.github.io/tp)
