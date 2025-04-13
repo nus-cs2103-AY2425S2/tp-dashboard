@@ -263,4 +263,4 @@ https://github.com/AY2425S2-CS2103-F15-3/tp/tree/master
 **Product:** [RecruitTrackPro](https://ay2425s2-cs2103-f15-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2425S2-CS2103-F15-4/tp/tree/master
-**Product:** [HRtisan](https://ay2425s2-cs2103-f15-4.github.io/tp)
+**Product:** [TAssit](https://ay2425s2-cs2103-f15-4.github.io/tp)
